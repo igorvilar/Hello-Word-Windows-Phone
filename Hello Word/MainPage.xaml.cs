@@ -27,6 +27,7 @@ namespace Hello_Word
             this.InitializeComponent();
 
             this.NavigationCacheMode = NavigationCacheMode.Required;
+            textBlockHome.Text = "Hello Word";
         }
 
         /// <summary>
